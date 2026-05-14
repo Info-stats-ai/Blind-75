@@ -14,11 +14,13 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Info-stats-ai/Blind-75/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Info-stats-ai/Blind-75/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Info-stats-ai/Blind-75/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Info-stats-ai/Blind-75/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -44,6 +47,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,5 +55,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Info-stats-ai/Blind-75/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
