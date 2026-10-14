@@ -1,14 +1,20 @@
 class Solution:
-    def findMin(self, nums: List[int]) -> int:
-        lo = 0
-        hi = len(nums) - 1
+    def findMin(self, nums: list[int]) -> int:
+        res = nums[0]
+        l = 0
+        r = len(nums)-1 
+        while l <= r:
+            if nums[l] < nums[r]:
+                return min(nums)
+                break
 
-        while lo < hi:        # not lo <= hi, we want a single element left
-            mid = (lo + hi) // 2
-
-            if nums[mid] > nums[hi]:
-                lo = mid + 1  # min is in right half
+            m = (l+r)// 2
+            res = min(res, nums[m])
+            if nums[m] >= nums[l]:
+                l = m+1
             else:
-                hi = mid      # min is in left half (mid could be the answer)
+                r=m-1
+        return res
 
-        return nums[lo]       # lo == hi, we found the minimum
+
+        
