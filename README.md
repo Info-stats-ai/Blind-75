@@ -13,6 +13,7 @@
 | [0139-word-break](https://github.com/Info-stats-ai/Blind-75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Info-stats-ai/Blind-75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Info-stats-ai/Blind-75/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Info-stats-ai/Blind-75/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
@@ -57,12 +58,14 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Info-stats-ai/Blind-75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Info-stats-ai/Blind-75/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Info-stats-ai/Blind-75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
