@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Info-stats-ai/Blind-75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0053-maximum-subarray) |
@@ -64,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Info-stats-ai/Blind-75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Info-stats-ai/Blind-75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Info-stats-ai/Blind-75/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Info-stats-ai/Blind-75/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
