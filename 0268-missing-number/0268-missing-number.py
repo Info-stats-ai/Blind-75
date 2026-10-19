@@ -1,7 +1,10 @@
 class Solution:
     def missingNumber(self, nums: list[int]) -> int:
-         res = len(nums)
+         Maximum = len(nums)
+         total = (Maximum*(Maximum +1))/ 2
+         summation = 0
          for i in range(len(nums)):
-            res += (i-nums[i])
-         return res
+            summation = summation + nums[i]
+         return  int(total - summation)
+
         
