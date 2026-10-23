@@ -103,4 +103,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Info-stats-ai/Blind-75/tree/master/0011-container-with-most-water) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Info-stats-ai/Blind-75/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Info-stats-ai/Blind-75/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
