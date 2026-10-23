@@ -111,4 +111,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Info-stats-ai/Blind-75/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Info-stats-ai/Blind-75/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
