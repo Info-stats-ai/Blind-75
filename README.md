@@ -115,4 +115,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Info-stats-ai/Blind-75/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Info-stats-ai/Blind-75/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
