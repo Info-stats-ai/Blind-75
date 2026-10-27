@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Info-stats-ai/Blind-75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Info-stats-ai/Blind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Info-stats-ai/Blind-75/tree/master/0139-word-break) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Info-stats-ai/Blind-75/tree/master/1143-longest-common-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
