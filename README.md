@@ -34,6 +34,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Info-stats-ai/Blind-75/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Info-stats-ai/Blind-75/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Info-stats-ai/Blind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Info-stats-ai/Blind-75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0152-maximum-product-subarray) |
@@ -96,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Info-stats-ai/Blind-75/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Info-stats-ai/Blind-75/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/Info-stats-ai/Blind-75/tree/master/1143-longest-common-subsequence) |
 ## Trie
