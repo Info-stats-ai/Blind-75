@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Info-stats-ai/Blind-75/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Info-stats-ai/Blind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Info-stats-ai/Blind-75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0152-maximum-product-subarray) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Info-stats-ai/Blind-75/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Info-stats-ai/Blind-75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Info-stats-ai/Blind-75/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Info-stats-ai/Blind-75/tree/master/0091-decode-ways) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Info-stats-ai/Blind-75/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Info-stats-ai/Blind-75/tree/master/0055-jump-game) |
 ## Knapsack Problem
 |  |
 | ------- |
