@@ -97,6 +97,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Info-stats-ai/Blind-75/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Info-stats-ai/Blind-75/tree/master/0322-coin-change) |
 ## String
 |  |
@@ -137,4 +138,20 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Info-stats-ai/Blind-75/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Info-stats-ai/Blind-75/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Info-stats-ai/Blind-75/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Info-stats-ai/Blind-75/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Info-stats-ai/Blind-75/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
