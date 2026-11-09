@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Info-stats-ai/Blind-75/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Info-stats-ai/Blind-75/tree/master/0322-coin-change) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Info-stats-ai/Blind-75/tree/master/0417-pacific-atlantic-water-flow) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Info-stats-ai/Blind-75/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Info-stats-ai/Blind-75/tree/master/0322-coin-change) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Info-stats-ai/Blind-75/tree/master/0417-pacific-atlantic-water-flow) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Info-stats-ai/Blind-75/tree/master/0207-course-schedule) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Info-stats-ai/Blind-75/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph Theory
 |  |
 | ------- |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Info-stats-ai/Blind-75/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Info-stats-ai/Blind-75/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
