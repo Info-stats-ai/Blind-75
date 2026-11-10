@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Info-stats-ai/Blind-75/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Info-stats-ai/Blind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Info-stats-ai/Blind-75/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Info-stats-ai/Blind-75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Info-stats-ai/Blind-75/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Info-stats-ai/Blind-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Info-stats-ai/Blind-75/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Info-stats-ai/Blind-75/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Info-stats-ai/Blind-75/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Info-stats-ai/Blind-75/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Info-stats-ai/Blind-75/tree/master/0268-missing-number) |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Info-stats-ai/Blind-75/tree/master/0417-pacific-atlantic-water-flow) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Info-stats-ai/Blind-75/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
